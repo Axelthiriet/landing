@@ -1,0 +1,43 @@
+/* Styles pour le corps de la page */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #DEB89D;
+  color: #333;
+  line-height: 1.5;
+  margin: 0;
+  text-align: center;
+}
+
+/* Styles pour la barre de navigation */
+nav {
+  background-color: #9b6326;
+  height: 60px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+
+}
+
+nav li {
+  margin: 0 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 10px;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+img {
+  border: 1px solid #ccc;
+}
